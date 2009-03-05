@@ -1,0 +1,3 @@
+[submodule "vendor/russiandolls"]
+	path = vendor/russiandolls
+	url = git://github.com/yeastymobs/russiandolls.git
